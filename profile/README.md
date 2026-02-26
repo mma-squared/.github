@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/MMA-Squared.png" alt="MMA Squared Logo" width="400">
+  <img src="MMA-Squared.png" alt="MMA Squared Logo" width="400">
 </p>
 
 # MMA Squared
