@@ -27,7 +27,9 @@ We hope you like your analysis, you can find our content below.
 
 | Platform | Description | 
 |----------|-------------|
-| [Youtube](https://www.youtube.com/@MMA-Squared) | Where you can find all of our videos 
+| [YouTube](https://www.youtube.com/@MMA-Squared) | Where you can find all of our videos |
+| [Telegram](https://t.me/mmasquared) | Join our community |
+| [Website](https://mmasquared.com) | Data & analytics 
 
 ---
 
