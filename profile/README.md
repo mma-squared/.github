@@ -25,11 +25,12 @@ We hope you like your analysis, you can find our content below.
 ## Our Content
 
 
-| Platform | Description | 
+| Platform | Description |
 |----------|-------------|
 | [YouTube](https://www.youtube.com/@MMA-Squared) | Where you can find all of our videos |
 | [Telegram](https://t.me/mmasquared) | Join our community |
-| [Website](https://mmasquared.com) | Data & analytics 
+| [Stats](https://stats.mmasquared.com) | Fighter insights — very useful for analytics |
+| [Contact Us](mailto:abdul@mmasquared.com) | Get in touch |
 
 ---
 
