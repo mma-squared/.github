@@ -30,7 +30,7 @@ We hope you like your analysis, you can find our content below.
 | [YouTube](https://www.youtube.com/@MMA-Squared) | Where you can find all of our videos |
 | [Telegram](https://t.me/mmasquared) | Join our community |
 | [Stats](https://stats.mmasquared.com) | Fighter insights — very useful for analytics |
-| [Contact Us](mailto:abdul@mmasquared.com) | Get in touch |
+| [Contact Us](mailto:team@mmasquared.com) | Get in touch |
 
 ---
 
